@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "ContaBancaria/src"
+        "ProjetoJava2/Exception.java/src",
+        "ProjetoJava2"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": []
