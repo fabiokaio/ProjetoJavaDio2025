@@ -1,3 +1,5 @@
+package ContaBancaria.src;
+
 import java.util.Scanner;
 
 public class ContaViaTerminal{
